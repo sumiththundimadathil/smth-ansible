@@ -1,0 +1,4 @@
+instance_name: app2
+group: apps
+deployment: qa
+security_group_name: app_servers
